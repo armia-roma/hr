@@ -1,0 +1,1 @@
+export default (v) => !!v || 'Name is required'
